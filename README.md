@@ -189,8 +189,7 @@ aún no lo hago
 ---
 
 # Page de GitHub
-
-[aún no lo hago](https://montsecaballero29.github.io/visual/)
+[Page GitHub](https://montsecaballero29.github.io/visual/)
 
 ---
 
