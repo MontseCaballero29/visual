@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Librería de Notificaciones Toast</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <div class="contenedor">
+        <h1>Notificaciones Toast</h1>
+        <p>Mostrar notificaciones tipo toast </p>
+        <div class="botones">
+         <button class="boton exito" onclick="mostrarToast('Operación realizada con éxito', 'exito')">Éxito</button>
+         <button class="boton error" onclick="mostrarToast('Hay un error', 'error')"> Error</button>
+         <button class="boton advertencia" onclick="mostrarToast('Verifica la información proporciona', 'advertencia')">Advertencia </button>
+         <button class="boton informacion" onclick="mostrarToast('Nueva notificación', 'informacion')"> Información </button>
+        </div>
+
+    </div>
+    <script src="js/funzioni.js"></script>
+
+</body>
+
+</html>
