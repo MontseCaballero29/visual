@@ -25,6 +25,8 @@ Mi componente consiste en una librería de notificaciones tipo **Toast**, creada
 * Advertencia
 * Información
 
+  Cabe mencionar que se puede usar de otras maneras, pero yo hice la demostración con esos botones para que salgan esos mensajes
+
 ---
 
 ## ¿Qué problema resuelve?
